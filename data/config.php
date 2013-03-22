@@ -1,18 +1,18 @@
 <?php
 // database host
-$db_host   = "localhost:3308";
+$db_host   = "localhost:3306";
 
 // database name
-$db_name   = "ecshop73";
+$db_name   = "bjpshop";
 
 // database username
 $db_user   = "root";
 
 // database password
-$db_pass   = "winwin";
+$db_pass   = "ftbj123yangpu";
 
 // table prefix
-$prefix    = "ecs_";
+$prefix    = "bjp_";
 
 $timezone    = "UTC";
 
@@ -30,6 +30,6 @@ define('AUTH_KEY', 'this is a key');
 
 define('OLD_AUTH_KEY', '');
 
-define('API_TIME', '2013-03-11 06:49:52');
+define('API_TIME', '2013-03-22 00:54:56');
 
 ?>

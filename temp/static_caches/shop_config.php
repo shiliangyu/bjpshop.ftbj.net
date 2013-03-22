@@ -1,7 +1,7 @@
 <?php
 $data = array (
-  'shop_name' => 'ECSHOP',
-  'shop_title' => 'ECSHOP演示站',
+  'shop_name' => '东方华昱商城',
+  'shop_title' => '东方华昱商城',
   'shop_desc' => 'ECSHOP演示站',
   'shop_keywords' => 'ECSHOP演示站',
   'shop_country' => '1',
@@ -20,10 +20,7 @@ $data = array (
   'shop_logo' => '',
   'licensed' => '1',
   'user_notice' => '用户中心公告！',
-  'shop_notice' => '欢迎光临手机网,我们的宗旨：诚信经营、服务客户！
-<MARQUEE onmouseover=this.stop() onmouseout=this.start() 
-scrollAmount=3><U><FONT color=red>
-<P>咨询电话010-10124444  010-21252454 8465544</P></FONT></U></MARQUEE>',
+  'shop_notice' => '',
   'shop_reg_closed' => '0',
   'lang' => 'zh_cn',
   'icp_number' => '',
@@ -37,7 +34,7 @@ scrollAmount=3><U><FONT color=red>
   'integral_name' => '积分',
   'integral_scale' => 1,
   'integral_percent' => '1',
-  'sn_prefix' => 'ECS',
+  'sn_prefix' => 'ivy',
   'comment_check' => '1',
   'no_picture' => 'images/no_picture.gif',
   'stats_code' => '',
@@ -58,8 +55,8 @@ scrollAmount=3><U><FONT color=red>
   'retain_original_img' => '1',
   'member_email_validate' => '1',
   'message_board' => '1',
-  'certificate_id' => '',
-  'token' => '',
+  'certificate_id' => '1321943232',
+  'token' => 'ccc74e68d946a376b48274dd54c06deaa30488c39dc833879ae8135a5035914c',
   'certi' => 'http://service.shopex.cn/openapi/api.php',
   'send_verify_email' => '0',
   'ent_id' => '',
@@ -151,7 +148,7 @@ scrollAmount=3><U><FONT color=red>
   'integrate_config' => '',
   'hash_code' => '31693422540744c0a6b6da635b7a5a93',
   'template' => 'default',
-  'install_date' => '1362984463',
+  'install_date' => '1363742664',
   'ecs_version' => 'v2.7.3',
   'sms_user_name' => '',
   'sms_password' => '',
